@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "texto": "¿Cuál es la capital de Francia?",
+    "opciones": [
+      { "texto": "Madrid", "esCorrecta": false },
+      { "texto": "París", "esCorrecta": true },
+      { "texto": "Londres", "esCorrecta": false }
+    ]
+  },
+  {
+    "id": 2,
+    "texto": "¿Cuánto es 2 + 2?",
+    "opciones": [
+      { "texto": "3", "esCorrecta": false },
+      { "texto": "4", "esCorrecta": true },
+      { "texto": "5", "esCorrecta": false }
+    ]
+  }
+]
